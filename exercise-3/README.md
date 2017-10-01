@@ -9,3 +9,23 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+# cd 
+cd is a command used to navigate the directory tree of a computer
+
+this command stands for **c**hange **d**irectory
+
+In the example below cd is used to navigate into a folder called folder_name
+
+```
+cd folder_name
+```
+
+Other commands are as follow
+- Return to parent folder
+```
+cd ..
+```
+- Return to parent folder and navigate to different child folder
+```
+cd ../other_folder_name
+```
